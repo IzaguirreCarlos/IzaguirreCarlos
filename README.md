@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...en Informática y diseño  Web
 - 🌱 I’m currently learning ...Desarrollo  Full Stack
 - 💞️ I’m looking to collaborate on ...Proyectos y desarrollo de Software 
-- 📫 How to reach me ...Instagram  Carlos Alberto Izaguirres Herrera
+- 📫 How to reach me ...Instagram --> Carlos Alberto Izaguirres Herrera  E-MAIL--> carlosizaguirres705@gmail.com
 - 😄 Carlos 
 - ⚡ Fun fact: ME Gusta el fútbol, 
 
