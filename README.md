@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @IzaguirreCarlos
-- 👀 I’m interested in ...en Informática y diseño  Web
-- 🌱 I’m currently learning ...Desarrollo  Full Stack
-- 💞️ I’m looking to collaborate on ...Proyectos y desarrollo de Software 
-- 📫 How to reach me ...Instagram --> Carlos Alberto Izaguirres Herrera  E-MAIL--> carlosizaguirres705@gmail.com
+- 👋 Hi, I’m @ IzaguirresCarlos
+- 👀 I’m interested in ... Informátic end  create  Software 
+- 🌱 I’m currently learning ...Development  Full Stack
+- 💞️ I’m looking to collaborate on ...Proyect end  Development of Software 
+- 📫 How to reach me ...Instagram --> Carlos Alberto Izaguirres Herrera
+- E-MAIL--> carlosizaguirres705@gmail.com
 - 😄 Carlos 
-- ⚡ Fun fact: ME Gusta el fútbol, 
+- ⚡ Fun fact: l like soccer
 
 <!---
 IzaguirreCarlos/IzaguirreCarlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
